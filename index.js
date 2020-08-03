@@ -1,3 +1,8 @@
 function takeANumber(num, name) {
-  return `Welcome, ${name}. You are number ${num[i]} in line.`
+  let i = 0
+
+  while (i < katzDeliLine.lenght) {
+    return `Welcome, ${name[i]}. You are number ${num[i]} in line.`
+    i++
+  }
 }
