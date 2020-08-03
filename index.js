@@ -3,7 +3,7 @@ function takeANumber(line, name) {
 
   let i = 0
 
-  while (i < num.lenght) {
+  while (i < line.lenght) {
     return `Welcome, ${name[i]}. You are number ${line.lenght} in line.`
     i++;
   }
