@@ -1,3 +1,3 @@
-function takeANumber(line, name) {
-  return `Welcome, ${name}. You are number ${line} in line.`
+function takeANumber(num, name) {
+  return `Welcome, ${name}. You are number ${num[i]} in line.`
 }
