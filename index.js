@@ -1,3 +1,5 @@
+var katzDeliLine = [];
+
 function takeANumber(num, name) {
   let i = 0
 
