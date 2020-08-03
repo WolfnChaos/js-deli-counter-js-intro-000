@@ -4,6 +4,7 @@ function takeANumber(line, name) {
   let i = 0
 
   while (i < num.lenght) {
-      return `Welcome, ${name[i]}. You are number ${line.lenght} in line.`
+    return `Welcome, ${name[i]}. You are number ${line.lenght} in line.`
+    i++;
   }
 }
