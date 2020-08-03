@@ -1,3 +1,3 @@
-function takeANumber(line, name) {
-[...line, name];
+function takeANumber(num, name) {
+[...num, name];
 }
