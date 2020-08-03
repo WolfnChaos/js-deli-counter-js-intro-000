@@ -1,9 +1,9 @@
-function takeANumber(num, name) {
-  num.push(name);
+function takeANumber(line, name) {
+  line.push(name);
 
   let i = 0
 
   while (i < num.lenght) {
-      return `Welcome, ${name[i]}. You are number ${num.lenght} in line.`
+      return `Welcome, ${name[i]}. You are number ${line.lenght} in line.`
   }
 }
